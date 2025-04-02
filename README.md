@@ -49,6 +49,7 @@
   <p>Check out some of our latest projects:</p>
   <ul>
     <li><strong>Urban Edge</strong> - Modern architecture branding</li>
+    <img src="images/urban-edge.jpg" alt="Urban Edge Branding" width="400">
     <li><strong>StoneHaus Café</strong> - Industrial chic coffee branding</li>
   </ul>
 </section>
