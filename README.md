@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+8<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,16 +52,16 @@
     <img src="images/urban-edge.jpg" alt="Urban Edge Branding" width="400">
     <li><strong>StoneHaus Café</strong> - Industrial chic coffee branding</li>
   </ul>
-</section> <img scr="stonehaus.jpg"
+</section> <img scr="stonehaus.jpg"width="400">
 
 <section id="contact" class="section">
   <h2>Contact Us</h2>
   <p>Let's build something great together!</p>
   <form action="#" method="POST">
     <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br><br>
+    <input type="text" id="name" name="Emmanuel juliet" required><br><br>
     <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required><br><br>
+    <input type="email" id="email" name="manuelthenja@gmail.com" required><br><br>
     <label for="message">Message:</label><br>
     <textarea id="message" name="message" rows="4" required></textarea><br><br>
     <button type="submit">Send Message</button>
