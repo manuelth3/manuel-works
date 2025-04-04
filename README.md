@@ -52,7 +52,7 @@
     <img src="images/urban-edge.jpg" alt="Urban Edge Branding" width="400">
     <li><strong>StoneHaus Café</strong> - Industrial chic coffee branding</li>
   </ul>
-</section>
+</section> <img scr="stonehaus.jpg"
 
 <section id="contact" class="section">
   <h2>Contact Us</h2>
