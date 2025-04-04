@@ -50,7 +50,7 @@
   <ul>
     <li><strong>Urban Edge</strong> - Modern architecture branding</li>
     <img src="images/urban-edge.jpg" alt="Urban Edge Branding" width="400">
-    <li><strong>StoneHaus Café</strong> - Industrial chic coffee branding</li><img scr="stonehaus.jpg"width="400">
+    <li><strong>StoneHaus Café</strong> - Industrial chic coffee branding</li><img scr="stonehaus.jpg"alt ="stonehaus branding" width="400">
     
   </ul>
 </section> 
@@ -60,9 +60,9 @@
   <p>Let's build something great together!</p>
   <form action="#" method="POST">
     <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br>"emmanuel juliet"<br>
+    <input type="text" id="name" name="name" required><br>EMMANUEL JULIET<br>
     <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required><br><br>
+    <input type="email" id="email" name="email" required><br>manuelthenja@gmail.com<br>
     <label for="message">Message:</label><br>
     <textarea id="message" name="message" rows="4" required></textarea><br><br>
     <button type="submit">Send Message</button>
